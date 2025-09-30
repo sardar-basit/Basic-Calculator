@@ -28,7 +28,7 @@ You only need a modern web browser installed on your computer.
 Installation & Execution
 Clone the repository (or, in your case, you've already pushed it!):
 
-git clone [https://github.com/YourUsername/basic-calculator.git](https://github.com/YourUsername/basic-calculator.git)
+git clone https://github.com/sardar-basit/Basic-Calculator.git
 
 Navigate to the project directory:
 
